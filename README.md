@@ -4,7 +4,7 @@ This repository hosts the **lab projects** of the Pattern Recognition course hel
 
 ### Lab Projects
 
-- Lab 1: Digit Visual Recognition
+- Lab 1: Digits Visual Recognition
 
 - Lab 2: Speech Recognition with Hidden Markov Models and RNNs
 
